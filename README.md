@@ -1,1 +1,7 @@
-# BRACU_MAT110_Differential_Calculus_And_Co-Ordinate-Geometry
+# BRACU_MAT110
+<html>
+  <body>
+  This respository contains materials of MAT110 Summer'21 <br/>
+  Faculty : MZK <br/>
+  </body>
+</html>
